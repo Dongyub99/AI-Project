@@ -19,6 +19,11 @@
 - 마스크 착용시 라임색 박스와 확률이 출력되고, 미착용시 빨갠색 박스와 확률이 출력됨
 - 2명 이상의 인원이 있어도 각각의 착용유무가 출력이 됨
 - 마스크의 색깔 상관없이 유무 판별 가능
+---
+### 만드는 과정
+![image](https://user-images.githubusercontent.com/112042668/207055062-83553c82-92d9-4692-ab05-800cfd918058.png)
+
+---
 ### 작동영상
 [:video_camera:혼자일때](https://youtu.be/DoUi6i3doAg)
 [:video_camera:2명일때](https://youtu.be/oPvfWP84s1U)
